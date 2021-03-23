@@ -1,0 +1,566 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile Views correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#fff",
+      },
+      Object {
+        "alignItems": "flex-start",
+        "flex": 1,
+        "height": "100%",
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+        },
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "rgba(40,103,257,0.1)",
+          "flexDirection": "column",
+          "fontSize": 20,
+          "fontWeight": "bold",
+          "height": 150,
+          "justifyContent": "center",
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <Image
+      source={
+        Object {
+          "height": 64,
+          "uri": "https://avatars.githubusercontent.com/u/39497865?v=4",
+          "width": 64,
+        }
+      }
+    />
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 18,
+            "fontWeight": "bold",
+          },
+        ]
+      }
+    >
+      cai yc2000
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+        },
+        Object {
+          "alignItems": "center",
+          "borderBottomWidth": 1,
+          "borderColor": "#cccccc",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginLeft": "5%",
+          "paddingBottom": 10,
+          "paddingTop": 10,
+          "width": "90%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+          },
+        ]
+      }
+    >
+      login:
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+            "fontWeight": "700",
+          },
+        ]
+      }
+    >
+      cyc2000
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+        },
+        Object {
+          "alignItems": "center",
+          "borderBottomWidth": 1,
+          "borderColor": "#cccccc",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginLeft": "5%",
+          "paddingBottom": 10,
+          "paddingTop": 10,
+          "width": "90%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+          },
+        ]
+      }
+    >
+      email:
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+            "fontWeight": "700",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+        },
+        Object {
+          "alignItems": "center",
+          "borderBottomWidth": 1,
+          "borderColor": "#cccccc",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginLeft": "5%",
+          "paddingBottom": 10,
+          "paddingTop": 10,
+          "width": "90%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+          },
+        ]
+      }
+    >
+      bio:
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+            "fontWeight": "700",
+          },
+        ]
+      }
+    >
+      abab
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+        },
+        Object {
+          "alignItems": "center",
+          "borderBottomWidth": 1,
+          "borderColor": "#cccccc",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginLeft": "5%",
+          "paddingBottom": 10,
+          "paddingTop": 10,
+          "width": "90%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+          },
+        ]
+      }
+    >
+      Public Repos count:
+    </Text>
+    <Text
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+            "fontWeight": "700",
+          },
+        ]
+      }
+    >
+      23
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+        },
+        Object {
+          "alignItems": "center",
+          "borderBottomWidth": 1,
+          "borderColor": "#cccccc",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginLeft": "5%",
+          "paddingBottom": 10,
+          "paddingTop": 10,
+          "width": "90%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+          },
+        ]
+      }
+    >
+      url:
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+            "fontWeight": "700",
+          },
+        ]
+      }
+    >
+      https://github.com/cyc2000
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+        },
+        Object {
+          "alignItems": "center",
+          "borderBottomWidth": 1,
+          "borderColor": "#cccccc",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginLeft": "5%",
+          "paddingBottom": 10,
+          "paddingTop": 10,
+          "width": "90%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+          },
+        ]
+      }
+    >
+      following:
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#fff",
+          },
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          },
+        ]
+      }
+    >
+      <Text
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#000",
+            },
+            Object {
+              "fontSize": 12,
+              "fontWeight": "700",
+            },
+          ]
+        }
+      >
+        0
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+        },
+        Object {
+          "alignItems": "center",
+          "borderBottomWidth": 1,
+          "borderColor": "#cccccc",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginLeft": "5%",
+          "paddingBottom": 10,
+          "paddingTop": 10,
+          "width": "90%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+          },
+        ]
+      }
+    >
+      followers:
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "backgroundColor": "#fff",
+          },
+          Object {
+            "alignItems": "center",
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+          },
+        ]
+      }
+    >
+      <Text
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#000",
+            },
+            Object {
+              "fontSize": 12,
+              "fontWeight": "700",
+            },
+          ]
+        }
+      >
+        0
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+        },
+        Object {
+          "alignItems": "center",
+          "borderBottomWidth": 1,
+          "borderColor": "#cccccc",
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "marginLeft": "5%",
+          "paddingBottom": 10,
+          "paddingTop": 10,
+          "width": "90%",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+          },
+        ]
+      }
+    >
+      created:
+    </Text>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#000",
+          },
+          Object {
+            "fontSize": 12,
+            "fontWeight": "700",
+          },
+        ]
+      }
+    >
+      Tue May 22 2018
+    </Text>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#fff",
+        },
+        Object {
+          "flex": 1,
+          "padding": 40,
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <View
+      accessibilityRole="button"
+      accessibilityState={Object {}}
+      accessible={true}
+      focusable={false}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#007AFF",
+                "fontSize": 18,
+                "margin": 8,
+                "textAlign": "center",
+              },
+              Object {
+                "color": "#009688",
+              },
+            ]
+          }
+        >
+          Logout
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login Loading Views correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#000",
+      },
+      Object {
+        "height": 1,
+        "marginVertical": 30,
+        "width": "80%",
+      },
+    ]
+  }
+>
+  Loading
+</Text>
+`;
