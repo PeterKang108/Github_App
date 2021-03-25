@@ -1,0 +1,224 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Repository Views correctly 1`] = `
+Array [
+  <View>
+    <View>
+      <Text>
+        MP0-Fall2018-PeterKang108
+      </Text>
+      <Text>
+        MP0-Fall2018-PeterKang108 created by GitHub Classroom
+      </Text>
+    </View>
+    <Text>
+      cs125-illinois-students
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        MP1-Fall2018-PeterKang108
+      </Text>
+      <Text>
+        MP1-Fall2018-PeterKang108 created by GitHub Classroom
+      </Text>
+    </View>
+    <Text>
+      cs125-illinois-students
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        MP2-Fall2018-PeterKang108
+      </Text>
+      <Text>
+        MP2-Fall2018-PeterKang108 created by GitHub Classroom
+      </Text>
+    </View>
+    <Text>
+      cs125-illinois-students
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        Lab3
+      </Text>
+      <Text>
+        Labwork on Sep 19th
+      </Text>
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        MP3-Fall2018-PeterKang108
+      </Text>
+      <Text>
+        MP3-Fall2018-PeterKang108 created by GitHub Classroom
+      </Text>
+    </View>
+    <Text>
+      cs125-illinois-students
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        MP4-Fall2018-PeterKang108
+      </Text>
+      <Text>
+        MP4-Fall2018-PeterKang108 created by GitHub Classroom
+      </Text>
+    </View>
+    <Text>
+      cs125-illinois-students
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        MP5-Fall2018-PeterKang108
+      </Text>
+      <Text>
+        MP5-Fall2018-PeterKang108 created by GitHub Classroom
+      </Text>
+    </View>
+    <Text>
+      cs125-illinois-students
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        CS125-Final-Project
+      </Text>
+      <Text />
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        CS125FinalProject
+      </Text>
+      <Text />
+    </View>
+    <Text>
+      SennanCen
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        planb-for-cs125-final
+      </Text>
+      <Text />
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        cocktail
+      </Text>
+      <Text>
+        planb for cs125 final project
+      </Text>
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        FinalProject-CS125_Cocktail
+      </Text>
+      <Text />
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        CS125_Final_Project_cocktail
+      </Text>
+      <Text />
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        forum
+      </Text>
+      <Text />
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        forum_new
+      </Text>
+      <Text>
+        test forum through vue-cli
+      </Text>
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        nyan_wiki
+      </Text>
+      <Text>
+        Tech Backup for Meme_wiki
+      </Text>
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        meme_wiki
+      </Text>
+      <Text />
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+  <View>
+    <View>
+      <Text>
+        CS411-final-project
+      </Text>
+      <Text />
+    </View>
+    <Text>
+      PeterKang108
+    </Text>
+  </View>,
+]
+`;

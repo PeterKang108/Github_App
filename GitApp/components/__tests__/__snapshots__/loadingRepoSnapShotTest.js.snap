@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile Views correctly 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "#000",
+      },
+      Object {
+        "fontSize": 50,
+        "textAlign": "center",
+      },
+    ]
+  }
+>
+  Loading Repo
+</Text>
+`;

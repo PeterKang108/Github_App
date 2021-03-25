@@ -1,0 +1,299 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile Views correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "alignItems": "center",
+      "marginBottom": 30,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "rgba(43, 174, 255, 0.5)",
+        "paddingBottom": 30,
+        "paddingTop": 30,
+        "width": "100%",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://avatars.githubusercontent.com/u/42983521?v=4",
+        }
+      }
+      style={
+        Object {
+          "height": 72,
+          "width": 72,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "space-between",
+          "paddingTop": 10,
+          "width": "90%",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 16,
+          }
+        }
+      >
+        PeterKang108
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomWidth": 1,
+        "borderColor": "#ccc",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+        "paddingBottom": 10,
+        "paddingTop": 10,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Email Address
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+        }
+      }
+    >
+      
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderBottomWidth": 1,
+        "borderColor": "#ccc",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+        "paddingBottom": 10,
+        "paddingTop": 10,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Bio
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+        }
+      }
+    />
+  </View>
+  <Text
+    onPress={[Function]}
+    style={
+      Object {
+        "borderBottomWidth": 1,
+        "borderColor": "#ccc",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+        "paddingBottom": 10,
+        "paddingTop": 10,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Public Repos count
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+        }
+      }
+    >
+      18
+    </Text>
+  </Text>
+  <View
+    style={
+      Object {
+        "borderBottomWidth": 1,
+        "borderColor": "#ccc",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+        "paddingBottom": 10,
+        "paddingTop": 10,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Website
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+        }
+      }
+    >
+      https://github.com/PeterKang108
+    </Text>
+  </View>
+  <Text
+    onPress={[Function]}
+    style={
+      Object {
+        "borderBottomWidth": 1,
+        "borderColor": "#ccc",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+        "paddingBottom": 10,
+        "paddingTop": 10,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Following
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+        }
+      }
+    >
+      0
+    </Text>
+  </Text>
+  <Text
+    onPress={[Function]}
+    style={
+      Object {
+        "borderBottomWidth": 1,
+        "borderColor": "#ccc",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+        "paddingBottom": 10,
+        "paddingTop": 10,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Followers
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+        }
+      }
+    >
+      0
+    </Text>
+  </Text>
+  <View
+    style={
+      Object {
+        "borderBottomWidth": 1,
+        "borderColor": "#ccc",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "space-between",
+        "paddingBottom": 10,
+        "paddingTop": 10,
+        "width": "80%",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Date Created
+    </Text>
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+        }
+      }
+    >
+      Wed Sep 05 2018
+    </Text>
+  </View>
+</RCTSafeAreaView>
+`;
